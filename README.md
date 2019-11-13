@@ -1,3 +1,3 @@
 ##Django Api with DRF
 
-![api-pic][api.png]
+![api-pic](api.png)
